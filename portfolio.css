@@ -1,0 +1,24 @@
+    
+nav{
+    display:flex; justify-content: space-between; align-items: center;
+    box-sizing: border-box; width: 90%;
+}
+
+*{
+    background-color: whitesmoke;
+}
+
+h1{
+    font-style: italic;
+    font-weight: lighter;
+}
+h1:hover{
+    color: brown;
+}
+img{
+    width: 500px;
+    height: 500px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
